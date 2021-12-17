@@ -3,7 +3,7 @@
 ## Student Info
 
 * Name - Pola Hano Shehat
-* Email - [pola.hano@gmail.com](pola.hano@gmail.com)
+* Email - [pola.hano@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pola.hano@gmail.com)
 * GitHub Profile - [polahano](https://github.com/polahano)
 * Medium - [@pola.hano](https://medium.com/@pola.hano)
 
